@@ -1,4 +1,4 @@
-# Proyecto de gestion de base de datos consumo de un cubode datos 
+# Proyecto de gestion de base de datos consumo de un cubo de datos 
 
 _En este repositorio podremos ver el desarrollo pequeño programa usan c# y conectarlo a un cubo de datos
 usando analisis service  de sqlserver._
