@@ -30,22 +30,12 @@ _Leer el documento de word interno._
 
 Clonar el proyecto.
 ```
-git clone https://github.com/kenny2312/Proyecto_Integrador_Redes_SL.git
+git clone https://github.com/kenny2312/Proyecto_Gestion_BasedeDatos
 ```
 
 Ver todos los commits a traves del tiempo.
 ```
 git log 
-```
-
-Para ejecutar el script hay que dale permisos en Ubuntu.
-```
-chmod network.py 750
-```
-
-Ejecutar el script.
-```
-sudo python network.py
 ```
 
 
